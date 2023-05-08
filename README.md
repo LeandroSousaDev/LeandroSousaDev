@@ -1,17 +1,17 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0092bf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bf0d&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Leandro+Santos+Sousa;I'm+26+years+old;I+from+Brasil,+BA;I+study+systems+development+at+Cubos+Academy;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0092bf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Leandro+Santos+Sousa;I'm+26+years+old;I+from+Brasil,+BA;I+study+systems+development+at+Cubos+Academy;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LeandroT11&show_icons=true&count_private=true&hide_border=true&title_color=00bf0d&icon_color=00bf0d&text_color=c9d1d9&bg_color=0d1117" alt="Leandro SOusa github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroT11&layout=compact&hide_border=true&title_color=00bf0d&text_color=00bf0d&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LeandroT11&show_icons=true&count_private=true&hide_border=true&title_color=0092bf&icon_color=0092bf&text_color=c9d1d9&bg_color=0d1117" alt="Leandro SOusa github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroT11&layout=compact&hide_border=true&title_color=0092bf&text_color=0092bf&bg_color=0d1117" />
 </div>
 
 ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=LeandroT11&theme=gotham)
 
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LeandroT11&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=LeandroT11&theme=radical&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 ### Main skills:
