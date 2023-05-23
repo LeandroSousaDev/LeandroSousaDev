@@ -18,5 +18,3 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroSousaDev&theme=gotham)](https://github.com/LeandroSousaDev/github-readme-stats)
-
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=LeandroSousaDev&theme=gotham)
