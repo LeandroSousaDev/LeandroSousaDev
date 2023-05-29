@@ -12,9 +12,3 @@
 ![Node.JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeandroSousaDev&show_icons=true&theme=gotham)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroSousaDev&theme=gotham)](https://github.com/LeandroSousaDev/github-readme-stats)
