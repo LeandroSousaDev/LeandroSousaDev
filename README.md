@@ -2,30 +2,65 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0092bf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Leandro+Sousa;I+from+Brasil,+BA;I+study+systems+development+at+UniJorge;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-## Sobre
+<h1 align="left">Hey 👋 What's up?</h1>
 
-Meu nome é Leandro tenho 27 anos, sou de Salvador na Bahia, Apreciador de
-filmes, series e animes, adoro desafios que me desafiam a utiliza raciocínio logico,
-minha criatividade e pensamento estratégico.
+###
 
-Estou numa transição de carreira da engenharia mecânica para a programação,
-sempre tive o objetivo de trabalha com algo em que pudesse estar diretamente
-ligado ao desenvolvimento do projeto então a programação surgiu como uma
-possibilidade de alcança meu objetivo.
+<p align="left">My name is Leandro and I'm a Backend Developer, looking for opportunities</p>
 
-Em janeiro de 2023, comecei meu oficialmente meus estudos em programação na
-Cubos Academy no curso de Desenvolvimento de software Full Stack, tem sido uma
-experiencia incrível, pode prender muito sobre lógica de programação, resolução de
-problemas e desenvolvido projetos como criação de banco de dados e APIs e com
-Node.Js e também layouts complexos e integrados ao Back end com React.Js.
+###
 
+<h2 align="left">About me</h2>
 
-### Main skills:
+###
 
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![Node.JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
-![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Java<br>🎯 Goals: become a senior developer<br>🎲 Fun fact: I'm a super nerd and I love anime, series, movies and games.</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<h2 align="left">Social media</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/leandrosousadev/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="leandro_ss" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="leandro_s.sousa@hotmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
+  </a>
+  <a href="t.me/LeoSSousa" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  </a>
+</div>
+
+###
